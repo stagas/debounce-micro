@@ -46,7 +46,7 @@ queueMicrotask(() => {
 
 ### debounce
 
-[src/index.ts:8-24](https://github.com/stagas/debounce-micro/blob/47ad0aec0ffc4b0f13650d5a26dc02ee52e46efb/src/index.ts#L8-L24 "Source code on GitHub")
+[src/index.ts:8-33](https://github.com/stagas/debounce-micro/blob/a643a0e748435a0c5b8e7dc183d3303dcebf5d8a/src/index.ts#L8-L33 "Source code on GitHub")
 
 Wraps a function in a debounce microtask.
 
